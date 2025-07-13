@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-cli
+langchain-chroma
+langchain-huggingface
+huggingface-hub
+sentence-transformers
+pymupdf
+pymupdf4llm
+pypdf
+python-dotenv
+chromadb
