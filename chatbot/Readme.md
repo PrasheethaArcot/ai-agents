@@ -1,3 +1,7 @@
+
+<img width="1512" height="838" alt="Screenshot 2025-07-12 at 11 44 39 PM" src="https://github.com/user-attachments/assets/b87c9c73-e716-4ed4-9514-ba24ae5eb28f" />
+
+
 #LangChain-Groq Chatbot
 A conversational AI assistant built with **LangChain**, **Groq LLM API**, and **Streamlit**, designed for fast and intelligent responses. This project supports both command-line and web interfaces.
 
